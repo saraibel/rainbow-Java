@@ -1,0 +1,20 @@
+oop;object oriented programing
+ Class
+ Object
+ ass
+ // Inheritance :
+ GrandFather = super(parent)class
+ father is a sub(child) class of grandfather
+ son is a sub ( child ) class of father
+
+ this is example provided here is a multiple inheritance example .
+ son -> father -> grandfather
+ son will inherent all the "public "variable and methods from father and grand father class
+ you can add more sub classes that extends from grandfather class and have a "hierarchical inheritance "
+ex:
+father , fatherTwo, fatherThree can all extend from Grandfather
+
+there are many types of inheritances in java ...
+-single level (ex: class B inherits from class A)
+-multi level (ex: class C inherits from class B , and class B inherits from class A)
+_hierarchical level ( ex: class B and C both inherit from class A)
